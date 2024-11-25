@@ -1,10 +1,10 @@
-# Midterm_project_ML
+# Machine Learning Zoomcamp 2024 - Midterm_project_ML [^1]
 
 # Overview
 
-Sleep disorders are a prevalent issue experienced by individuals across various demographics, with significant impacts on their quality of life and overall health. Increased stress responsivity, emotional distress, mood disorders, and long-term health consequences, such as cardiovascular disease and diabetes, can result from sleep disruption [^1]. Therefore understanding and analysing sleep patterns can provide valuable insights into improving health outcomes.
+Sleep disorders are a prevalent issue experienced by individuals across various demographics, with significant impacts on their quality of life and overall health. Increased stress responsivity, emotional distress, mood disorders, and long-term health consequences, such as cardiovascular disease and diabetes, can result from sleep disruption [^2]. Therefore, understanding and analysing sleep patterns can provide valuable insights into improving health outcomes.
 
-Hence for this midterm project, a synthetic dataset from Kaggle [^2] was utilized to analyse sleep disorders and their effects on daily life.
+Hence for this midterm project, a synthetic dataset from Kaggle [^3] was utilized to analyse sleep disorders and their effects on daily life.
 
 # About Dataset
 
@@ -42,7 +42,7 @@ The Sleep Health and Lifestyle Dataset comprises 400 rows and 13 columns, coveri
 
 # Project Components
 
-This project includes several key components that are part of machine-learning-zoomcamp [^3] midterm project requirements (Evaluation Criteria):
+This project includes several key components that are part of machine-learning-zoomcamp [^4] midterm project requirements (Evaluation Criteria):
 
 - Problem Description
 - Exploratory Data Analysis (EDA)
@@ -130,7 +130,10 @@ The Flask application will be started inside a Docker container, and it will be 
 This will send a request to your containerized application and print the response for you to see.
 
 ## References:
-[^1]: Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC5449130/
-[^2]: Source: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset/data
-[^3]: Source: https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/projects
+
+[^1]: Source: https://github.com/DataTalksClub/machine-learning-zoomcamp
+[^2]: Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC5449130/
+[^3]: Source: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset/data
+[^4]: Source: https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/projects
+
 
