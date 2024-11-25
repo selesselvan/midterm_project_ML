@@ -1,4 +1,4 @@
-# Machine Learning Zoomcamp 2024 - Midterm_project_ML [^1]
+# Machine Learning Zoomcamp 2024 - Midterm_Project_ML [^1]
 
 # Overview
 
